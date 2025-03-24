@@ -47,6 +47,8 @@ This dashboard presents a detailed analysis of Netflix's stock performance throu
 
 ## 🔮 Netflix Stock Price Prediction
 
+https://github.com/AbirBokhtiar/Netflix_Stock_Prediction/blob/main/Netflix%20stock%20prediction/Netflix%20Dashboard.JPG
+
 ### 📊 Predictive Visuals:
 - Forecasts based on historical data for **High** and **Low** prices.
 - Charts reflect **potential upward trends**, emphasizing Netflix’s long-term market strength.
